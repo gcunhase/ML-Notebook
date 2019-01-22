@@ -1,8 +1,8 @@
 ## About
-* Coolection of Machine Learning notebooks in Jupyter, also compatible with Google Colab.
+* Collection of Machine Learning notebooks in Jupyter, also compatible with Google Colab.
 
 ## Machine Learning Notebooks
-* Recurrent Neural Network [PyTorch: [Jupyter](https://github.com/gcunhase/ML-Notebook/blob/master/rnn_pytorch.ipynb), [GoogleColab](https://colab.research.google.com/github/gcunhase/ML-Notebook/blob/master/rnn_pytorch.ipynb)] [Tensorflow: [Jupyter](), [GoogleColab]()]
+* Recurrent Neural Network [PyTorch: [Jupyter](https://github.com/gcunhase/ML-Notebook/blob/master/rnn_pytorch.ipynb), [Colab](https://colab.research.google.com/github/gcunhase/ML-Notebook/blob/master/rnn_pytorch.ipynb)] [Tensorflow: [Jupyter](), [Colab]()]
 * NLP Evaluation Metrics
     * Machine Learning Translation: BLEU
 
