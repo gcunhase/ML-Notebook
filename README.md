@@ -21,3 +21,9 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
 * Convolutional Neural Network
 * Encoder-Decoder
 * Generative Adversarial Network
+
+
+## Other Relevant Tutorials
+* [PyTorch] [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+* [PyTorch] [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)
+* [PyTorch] [Pytorch-Project-Template](https://github.com/moemen95/Pytorch-Project-Template)
