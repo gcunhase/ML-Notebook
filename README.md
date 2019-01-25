@@ -17,7 +17,7 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
 
 
 ### To-do
-* Encoder-Decoder
 * MLP
 * Convolutional Neural Network
+* Encoder-Decoder
 * Generative Adversarial Network
