@@ -27,3 +27,5 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
 * [PyTorch] [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
 * [PyTorch] [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)
 * [PyTorch] [Pytorch-Project-Template](https://github.com/moemen95/Pytorch-Project-Template)
+* [Tensorflow] [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+* [Tensorflow] [RNN blog](https://jasdeep06.github.io/posts/Understanding-LSTM-in-Tensorflow-MNIST/), [RNN example](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/recurrent_network.ipynb)
