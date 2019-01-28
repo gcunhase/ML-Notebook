@@ -9,9 +9,10 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
     <td align="center" colspan="2"><b>Tensorflow</b></td>
   </tr>
   <tr>
-    <td align="center">Recurrent Neural Network</td><td align="center"><a href="https://github.com/gcunhase/ML-Notebook/blob/master/rnn_pytorch.ipynb">Jupyter</a></td>
+    <td align="center">Recurrent Neural Network</td>
+    <td align="center"><a href="https://github.com/gcunhase/ML-Notebook/blob/master/rnn_pytorch.ipynb">Jupyter</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/gcunhase/ML-Notebook/blob/master/rnn_pytorch.ipynb">Colab</a></td>
-    <a href="https://github.com/gcunhase/ML-Notebook/blob/master/rnn_tensorflow.ipynb">Jupyter</a></td>
+    <td align="center"><a href="https://github.com/gcunhase/ML-Notebook/blob/master/rnn_tensorflow.ipynb">Jupyter</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/gcunhase/ML-Notebook/blob/master/rnn_tensorflow.ipynb">Colab</a></td>
   </tr>
 </table>
