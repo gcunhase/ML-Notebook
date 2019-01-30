@@ -27,11 +27,12 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
 
 ## Relevant Tutorials
 ### PyTorch
-* [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): basics, intermediate and advanced + tensorboard
-* [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch): list of tutorials, 
 * [Kind-PyTorch-Tutorial](https://github.com/GunhoChoi/Kind-PyTorch-Tutorial): 12 notebooks (including denoising autoencoder)
-* [Pytorch-Project-Template](https://github.com/moemen95/Pytorch-Project-Template): scalable templates
+* [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): basics, intermediate and advanced + tensorboard
+* [PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial): well commented
 * [PyTorchZeroToAll](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&disable_polymer=true): video lessons [[slides](http://bit.ly/PyTorchZeroAll)]
+* [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch): list of tutorials
+* [Pytorch-Project-Template](https://github.com/moemen95/Pytorch-Project-Template): scalable templates
 * [tensorboardX](https://github.com/lanpa/tensorboardX): tensorboard for PyTorch
 
 ### Tensorflow
