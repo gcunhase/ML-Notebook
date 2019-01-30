@@ -25,7 +25,7 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
 * Generative Adversarial Network
 
 
-## Other Relevant Tutorials
+## Relevant Tutorials
 * [PyTorch] [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): basics, intermediate and advanced + tensorboard
 * [PyTorch] [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch): list of tutorials, 
 * [PyTorch] [Kind-PyTorch-Tutorial](https://github.com/GunhoChoi/Kind-PyTorch-Tutorial): 12 notebooks (including denoising autoencoder)
