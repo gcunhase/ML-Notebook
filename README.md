@@ -38,3 +38,6 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
 ### Tensorflow
 * [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 * [RNN blog](https://jasdeep06.github.io/posts/Understanding-LSTM-in-Tensorflow-MNIST/), [RNN example](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/3_NeuralNetworks/recurrent_network.ipynb)
+
+### Numpy/Theory
+* [Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) [[code](https://github.com/stephencwelch/Neural-Networks-Demystified)]
