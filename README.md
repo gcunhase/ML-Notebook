@@ -34,6 +34,7 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
 * [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch): list of tutorials
 * [Pytorch-Project-Template](https://github.com/moemen95/Pytorch-Project-Template): scalable templates
 * [tensorboardX](https://github.com/lanpa/tensorboardX): tensorboard for PyTorch
+* [pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner): AE
 
 ### Tensorflow
 * [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
