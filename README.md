@@ -15,6 +15,13 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
     <td align="center"><a href="https://github.com/gcunhase/ML-Notebook/blob/master/rnn_tensorflow.ipynb">Jupyter</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/gcunhase/ML-Notebook/blob/master/rnn_tensorflow.ipynb">Colab</a></td>
   </tr>
+  <tr>
+    <td align="center">AutoEncoder</td>
+    <td align="center"><a href="https://github.com/gcunhase/ML-Notebook/blob/master/models/autoencoder_pytorch.ipynb">Jupyter</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/gcunhase/ML-Notebook/blob/master/models/autoencoder_pytorch.ipynb">Colab</a></td>
+    <td align="center">-</td>
+    <td align="center">-</td>
+  </tr>
 </table>
 
 
