@@ -9,6 +9,12 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
     <td align="center" colspan="2"><b>Tensorflow</b></td>
   </tr>
   <tr>
+    <td align="center">MLP</td>
+    <td align="center"><a href="https://github.com/gcunhase/ML-Notebook/blob/master/models/mlp_pytorch.ipynb">Jupyter</a></td>
+    <td align="center"><a href="https://colab.research.google.com/github/gcunhase/ML-Notebook/blob/master/models/mlp_pytorch.ipynb">Colab</a></td>
+    <td align="center">-</td><td align="center">-</td>
+  </tr>
+  <tr>
     <td align="center">Recurrent Neural Network</td>
     <td align="center"><a href="https://github.com/gcunhase/ML-Notebook/blob/master/models/rnn_pytorch.ipynb">Jupyter</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/gcunhase/ML-Notebook/blob/master/models/rnn_pytorch.ipynb">Colab</a></td>
@@ -19,21 +25,18 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
     <td align="center">AutoEncoder</td>
     <td align="center"><a href="https://github.com/gcunhase/ML-Notebook/blob/master/models/autoencoder_pytorch.ipynb">Jupyter</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/gcunhase/ML-Notebook/blob/master/models/autoencoder_pytorch.ipynb">Colab</a></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">-</td><td align="center">-</td>
   </tr>
   <tr>
     <td align="center">Convolutional AutoEncoder</td>
     <td align="center"><a href="https://github.com/gcunhase/ML-Notebook/blob/master/models/conv_autoencoder_pytorch.ipynb">Jupyter</a></td>
     <td align="center"><a href="https://colab.research.google.com/github/gcunhase/ML-Notebook/blob/master/models/conv_autoencoder_pytorch.ipynb">Colab</a></td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">-</td><td align="center">-</td>
   </tr>
 </table>
 
 
 ### To-do
-* MLP
 * Convolutional Neural Network
 * Encoder-Decoder
 * Generative Adversarial Network
