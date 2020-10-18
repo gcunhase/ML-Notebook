@@ -42,8 +42,11 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
 * Generative Adversarial Network
 
 ## Applications
-* Computer Vision
-  * [Change background of image](./applications/ml_question_smartfit.ipynb)
+### Computer Vision
+
+| Task | Model | Dataset | Framework |
+| ---- | ----- | ------- | --------- |
+| [Change background of image](./applications/cv_change_background.ipynb) | FCN ResNet-101 | [COCO](https://cocodataset.org/#home) | PyTorch |
 
 ## Relevant Tutorials
 ### PyTorch
