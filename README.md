@@ -2,7 +2,7 @@
 Collection of Machine Learning notebooks in Jupyter and Google Colab.
 
 ## Machine Learning Notebooks
-<table align="center"> 
+<table align="left"> 
   <tr>
     <td align="center"><b>Model</b></td>
     <td align="center" colspan="2"><b>PyTorch</b></td>
