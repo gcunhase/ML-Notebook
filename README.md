@@ -48,6 +48,12 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
 | ---- | ----- | ------- | --------- |
 | [Change background of image](./applications/cv_change_background.ipynb) | FCN ResNet-101 | [COCO](https://cocodataset.org/#home) | PyTorch |
 
+### Natural Language Processing
+* TODO:
+  * Text generation with RNN/LSTM/GRU
+  * Text generation with GPT
+  * Text classification with BERT
+
 ## Relevant Tutorials
 ### PyTorch
 * [Kind-PyTorch-Tutorial](https://github.com/GunhoChoi/Kind-PyTorch-Tutorial): 12 notebooks (including denoising autoencoder)
