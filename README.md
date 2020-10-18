@@ -41,6 +41,9 @@ Collection of Machine Learning notebooks in Jupyter and Google Colab.
 * Encoder-Decoder
 * Generative Adversarial Network
 
+## Applications
+* Computer Vision
+  * [Change background of image](./applications/ml_question_smartfit.ipynb)
 
 ## Relevant Tutorials
 ### PyTorch
